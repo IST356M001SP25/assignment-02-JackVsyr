@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+It was difficult for me to get ahold of how the structure of the program worked. I was able to understand it once I really dug into the code and analyzed it. In this assignent I learned about creating my own functions in another file and being able to import and call them in another program to make a bigger function, which is really interesting. One thing I struggled with was how I could parse the lines and put them into the JSON file in the proper format. It did take a lot of trial and error, but I eventually was able to figure it out. 
